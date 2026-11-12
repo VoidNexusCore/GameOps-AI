@@ -1,4 +1,13 @@
-# GameOps AI｜游戏运营管理与智能 Agent 平台
+<div align="center">
+  <h1>GameOps AI｜游戏运营管理与智能 Agent 平台</h1>
+
+  <p>
+    <img src="https://img.shields.io/badge/license-Apache--2.0-2563eb" alt="Apache-2.0 License">
+    <img src="https://img.shields.io/badge/Java-17-ef4444" alt="Java 17">
+    <img src="https://img.shields.io/badge/Spring_Boot-3.3-6db33f" alt="Spring Boot 3.3">
+    <img src="https://img.shields.io/badge/Vue-3-42b883" alt="Vue 3">
+  </p>
+</div>
 
 > **项目定位：** 面向中小型游戏团队的运营管理后台与 AI 助手设计方案\
 > **文档类型：** 项目介绍 / 系统设计 / 界面原型说明\
